@@ -1,5 +1,5 @@
 # See here for image contents: https://github.com/microsoft/vscode-dev-containers/tree/v0.191.1/containers/ruby/.devcontainer/base.Dockerfile
-
+Dockerfile access limited to Cathleen Tico 
 # [Choice] Ruby version: 3.4, 3.3, 3.2
 ARG VARIANT="3.4.2"
 FROM ghcr.io/rails/devcontainer/images/ruby:${VARIANT}
